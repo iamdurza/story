@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-import storyng
-storyng.Story().begin()
+import storyeng
+storyeng.Story().begin()
 
 
 
